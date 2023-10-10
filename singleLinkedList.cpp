@@ -1,4 +1,4 @@
-#include "SingleLinkedList.h"
+#include "singleLinkedList.h"
 
 //TEST ALL FUNCTIONS!!!
 //using namespace std;
