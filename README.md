@@ -1,6 +1,7 @@
 # CS303Assignment2
-Thomas Reilly
-At program start user will be give menu options. Program's linked list is preamde with 4 elements/ employees. These menu options will run user functions to work with. Program is a linked list of dervied classes of a abstract base class.
+Name: Thomas Reilly 
+
+At program start user will be given menu options. Program's linked list is preamade with 4 elements/employees. These menu options will run user functions to work with. Program is a linked list of dervied classes of a abstract base class. This program is themed around an employeement log with employee information. 
 
 ![cs303a2sc1](https://github.com/Tarycx/CS303Assignment2/assets/113487474/60e0ecd1-42c6-4352-96da-7480391bc4eb)
 
